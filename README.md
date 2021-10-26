@@ -9,7 +9,7 @@
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <br />
-Привет, меня зовут Олег. Я занимаюсь благотворительностью, делаю и поддерживаю сайты для дошкольных образовательных учреждений.
+Привет, меня зовут Инна. Я занимаюсь благотворительностью, делаю и поддерживаю сайты для дошкольных образовательных учреждений.
 <br />
 <img align="right" alt="GIF" src="https://external-arn2-1.xx.fbcdn.net/safe_image.php?d=AQE4thyAg0sICPMR&w=500&h=261&url=https%3A%2F%2Fplatforma44.ru%2Fimages%2Fprojects%2F2021%2F2021-09-19-metodicheskij-sbornik%2F1.jpg&cfs=1&ext=jpg&_nc_oe=6ee7d&_nc_sid=06c271&ccb=3-5&_nc_hash=AQFcOwjI6XukFOl5" width="400" height="168" />
 
